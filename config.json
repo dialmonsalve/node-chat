@@ -1,0 +1,40 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "[javascript]": {
+    "editor.maxTokenizationLineLength": 2500,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnType": true,
+  "editor.formatOnSaveMode": "modifications",
+  "prettier.htmlWhitespaceSensitivity": "strict",
+  "editor.wordWrap": "on",
+  "explorer.compactFolders": false,
+  "editor.fontWeight": "700",
+  "editor.fontFamily": "'Cascadia Code PL','Droid Sans Mono', 'monospace', monospace",
+  "editor.fontLigatures": true,
+  "terminal.integrated.env.linux": {},
+  "editor.mouseWheelZoom": true,
+  "prettier.singleQuote": true,
+  "breadcrumbs.enabled": false,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "redhat.telemetry.enabled": false,
+  "terminal.integrated.fontFamily": "'MesloLGS NF'"
+}
